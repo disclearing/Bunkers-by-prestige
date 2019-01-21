@@ -1,0 +1,6 @@
+koth_faction_name: "Testing"
+setup: true
+server-name: "bases_1"
+map-name: "&6Classic"
+scoreboard:
+  title: "&dVeltPvP &c[Corners]"

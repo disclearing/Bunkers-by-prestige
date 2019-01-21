@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Development/Plugins.rar/Plugins.rar/Depend2/paperspigot-api-1.7.10-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Downloads/Telegram Desktop/Dependincies/cspigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Downloads/Telegram Desktop/Dependincies/custom1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Downloads/Telegram Desktop/Dependincies/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Downloads/Telegram Desktop/Dependincies/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Downloads/Telegram Desktop/Dependincies/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Development/Plugins.rar/Plugins.rar/Server/plugins/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Development/Plugins.rar/Plugins.rar/Depend/lombok-1.16.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Desktop/cLib(1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Kirai Server/Bunkers/plugins/Base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Kirai Server/Bunkers/plugins/ProtocolLib (3).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

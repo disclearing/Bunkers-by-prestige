@@ -1,0 +1,31 @@
+name: Bases
+version: .1
+author: Prestige_PvP
+main: me.prestige.bases.Bases
+softdepend: [ProtocolLib]
+depend: [WorldEdit, Core]
+commands:
+  createarena:
+  forcestart:
+  economy:
+    aliases: [bal, balance, money, eco]
+    description: Command used to modify the economy.
+  game:
+    description: Command used to manage minigame events.
+  faction:
+    aliases: [f, fac]
+    description: Faction related commands.
+  help:
+    aliases: ["?", "ts"]
+    description: Find out more about this server.
+  koth:
+    description: Make or delete KotH arenas.
+  location:
+    aliases: [loc]
+    description: Check the faction location of a player.
+  pay:
+    description: Allow players to pay money.
+  servertime:
+    description: Checks the date and time of server.
+  timer:
+    description: Command to manage timers.

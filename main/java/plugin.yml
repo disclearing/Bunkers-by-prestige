@@ -1,0 +1,22 @@
+name: Bases
+version: .1
+author: Prestige_PvP
+main: me.prestige.bases.Bases
+softdepend: [ProtocolLib]
+depend: [WorldEdit, Core]
+commands:
+  createarena:
+  forcestart:
+    aliases: [fs, start]
+  economy:
+    aliases: [bal, balance, money, eco]
+    description: Command used to modify the economy.
+  game:
+    description: Command used to manage minigame events.
+  faction:
+    aliases: [f, fac]
+    description: Faction related commands.
+  pay:
+    description: Allow players to pay money.
+  timer:
+    description: Command to manage timers.
